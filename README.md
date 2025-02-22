@@ -13,7 +13,7 @@ This project utilizes Streamlit to create a web application that allows users to
 To run this application, you need Python 3.6 or later and pip installed on your system.
 
 1. Clone the repository to your local machine:
-   git clone [https://github.com/your-repository/python-code-review-assistant.git](https://github.com/joeyk417/code-review-analyst-app)
+   git clone [https://github.com/joeyk417/code-review-analyst-app.git](https://github.com/joeyk417/code-review-analyst-app.git)
 
 2. Navigate to the cloned directory:
    cd python-code-review-assistant
